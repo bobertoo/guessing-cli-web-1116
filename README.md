@@ -4,7 +4,7 @@
 
 ## Instructions
 
-## Running Your Guessing Game 
+## Running Your Guessing Game
 
 Packaged with this repository is a runner file `bin/guessing_cli`.
 
